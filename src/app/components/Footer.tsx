@@ -24,7 +24,7 @@ function Footer() {
       <a href='/'><button className="flex items-center justify-center border-none rounded-md py-0 mt-4 cursor-pointer focus:outline-none">
           <Image src="https://www.ahead-app.com/images/app-store.svg" alt='apple' width={150} height={150} className="stroke-white-500 mr-2 mt-3" />
         </button></a>
-        <p className='text-xs font-medium mt-7 mb-20'>© 2022 Ahead app. All right reserved</p>
+        <p className='text-xs font-medium mt-7 mb-20'>© 2023 Ahead app. All right reserved</p>
     </div>
     </>
   );
