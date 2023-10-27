@@ -12,7 +12,7 @@ function Header2() {
         <div className='flex mt-1 justify-between'> 
           <div className="flex flex-col items-start"> 
             <Image src={`https://self-awareness.ahead-app.com/static/media/home_owel.e23a16a0.svg`} width={400} height={400} alt='avatar1' className='ml-14 mt-6 mb-8' />
-          </div>
+          </div> 
           <div className="mt-20 text-2xl max-w-lg mr-20 text-gray-600"> 
             <p className='mt-5'>
               A personalized pocket coach that provides bite-sized, science-driven tools to boost emotional intelligence. 
