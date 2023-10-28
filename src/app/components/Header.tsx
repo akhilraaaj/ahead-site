@@ -23,7 +23,7 @@ function Header() {
         </button></a>
         <div className='mt-4 ml-4 flex flex-col items-center'>
           <div className="flex">
-            {[...Array(5)].map((_, index) => (
+            {[...Array(5)].map((_, index) => ( 
               <Image key={index} src={Star} alt='star' width={24} height={28} className="stroke-white-500 mr-2" />
             ))}
           </div>
